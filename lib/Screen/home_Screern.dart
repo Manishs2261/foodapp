@@ -32,7 +32,7 @@ class  HomeScreen extends StatelessWidget {
 
 
              SingalProduct(productImage:('https://media.istockphoto.com/id/1131562141/photo/fresh-leaf-mint-green-herbs-ingredient.jpg?s=612x612&w=0&k=20&c=kRv4C79iDmSv1jcDjDMu35DC8oCjeazaMD8OM4IeBac='), productName:('fresh mint'), onTap: (){}),
-             SingalProduct(productImage:('https://media.istockphoto.com/id/1131562141/photo/fresh-leaf-mint-green-herbs-ingredient.jpg?s=612x612&w=0&k=20&c=kRv4C79iDmSv1jcDjDMu35DC8oCjeazaMD8OM4IeBac='), productName:('fresh mint'), onTap: (){}),
+             SingalProduct(productImage:('https://static.vecteezy.com/system/resources/thumbnails/012/574/364/small/mint-leaves-icons-leaf-illustration-green-mint-leaves-ecology-nature-element-icon-leaf-icon-mint-leaves-logo-illustration-vector.jpg'), productName:('fresh mint'), onTap: (){}),
              SingalProduct(productImage:('https://media.istockphoto.com/id/1131562141/photo/fresh-leaf-mint-green-herbs-ingredient.jpg?s=612x612&w=0&k=20&c=kRv4C79iDmSv1jcDjDMu35DC8oCjeazaMD8OM4IeBac='), productName:('fresh mint'), onTap: (){}),
              SingalProduct(productImage:('https://media.istockphoto.com/id/1131562141/photo/fresh-leaf-mint-green-herbs-ingredient.jpg?s=612x612&w=0&k=20&c=kRv4C79iDmSv1jcDjDMu35DC8oCjeazaMD8OM4IeBac='), productName:('fresh mint'), onTap: (){}),
 
